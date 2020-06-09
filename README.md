@@ -15,7 +15,7 @@ First, include the script file to your project
     <script src="grayscale.js"></script>
 Or load it from CDN
 
-    <script src="https://cdn.jsdelivr.net/gh/IamIsPra/grayscalejs@1.0.0/grayscale.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/IamIsPra/grayscalejs@1.0.3/grayscale.min.js"></script>
 
 ## Usage
 
